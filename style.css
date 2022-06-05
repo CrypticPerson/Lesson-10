@@ -1,8 +1,9 @@
 body{
     margin: 0;
     text-align: center;
-    background-image: url('Schirmer-PicnicII.jpeg');
+    background-image: url('halo.jpg');
     background-size: cover;
+    background-position: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     height: 100vh;
     display: flex;
@@ -26,6 +27,7 @@ h1 {
 
 .menu {
     margin: 60px auto 20px auto;
+    
 }
 
 button {
